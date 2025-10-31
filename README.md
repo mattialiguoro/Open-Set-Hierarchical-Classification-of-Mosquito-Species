@@ -8,6 +8,8 @@ Leveraging a **ConvNeXtV2-Huge backbone**, a **multi-task architecture**, and a 
 
 Developed and fine-tuned on the **Leonardo HPC**, the 10th most powerful supercomputer in the world, this project provided a valuable opportunity to learn and utilize one of the most advanced computational platforms available, gaining expertise in **high-performance deep learning pipelines**.  
 
+The project was **supervised by Prof. Stefano Giagu (Sapienza University of Rome)** and **Dr. Guido Gigante** and **Dr. Alberto Tubito** (*Istituto Superiore di Sanità, ISS*).  
+
 *(For the project article, check the “Report and presentation” folder.)*  
 
 
