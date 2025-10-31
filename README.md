@@ -53,5 +53,5 @@ To run **inference**, simply:
 
 If you have any questions about the implementation, would like further clarifications, or have suggestions for improvement, feel free to reach out — I’ll be happy to discuss and help.
 
-Mattia Liguoro
+Mattia Liguoro \
 mattialiguoro17@gmail.com
