@@ -62,5 +62,7 @@ This folder contains:
 
 ---
 
-**Author:** Mattia Liguoro  
-**Date:** 25/06/2025  
+If you have any questions about the implementation, would like further clarifications, or have suggestions for improvement, feel free to reach out — I’ll be happy to discuss and help.
+
+Mattia Liguoro
+mattialiguoro17@gmail.com
