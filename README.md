@@ -39,12 +39,7 @@ It is the exact code used to produce the results presented in the final report a
 
 To run **inference**, simply:
 1. Execute all cells up to (and including) the *model cell* in `Train_and_inference.ipynb`.
-2. Load the pre-trained model available at this [Google Drive folder](https://drive.google.com/drive/folders/14rYu47K1gCN46UN7HOyw08LQ_Q3MHbPY?usp=sharing)
- folder.  
-
-
-### Model trained and history Folder  
-This folder contains:
+2. Load the pre-trained model available at this [Google Drive folder](https://drive.google.com/drive/folders/14rYu47K1gCN46UN7HOyw08LQ_Q3MHbPY?usp=sharing). This folder contains:
 - The **best trained model**, fine-tuned on the custom dataset.  
 - The **training history** of accuracy and loss metrics for both **gender** and **species** classification on training and validation sets.  
 
