@@ -20,10 +20,6 @@ Developed and fine-tuned on the **Leonardo HPC**, the 10th most powerful superco
 │   ├── data_list_alberto.py
 │   ├── utils/
 │   └── ...
-├── Model trained and history/
-│   ├── best_model_weights.pt
-│   ├── training_history_gender.json
-│   └── training_history_species.json
 ├── Report and presentation/
 │   ├── Project_Report.pdf
 │   └── Presentation.pdf
@@ -31,14 +27,11 @@ Developed and fine-tuned on the **Leonardo HPC**, the 10th most powerful superco
 ```
 
 ### Code Folder  
-The **`Code`** folder contains all the files required for training and inference (except for Data and Segmentation code, which can be found in the parent folders).  
+The **`Code`** folder contains all the files required for training and inference, except for the segmentation code, which is proprietary to the ISS and therefore not included in this repository. It was provided as-is and was not part of my work.  
 Training can be performed by downloading the pre-trained model from **timm**.  
 By default, the `pretrained` option is set to **False**, since I used **fine-tuned weights from ImageNet-1k** (loaded from my `$WORK` directory on Leonardo) before performing the final fine-tuning on my dataset.  
 
 The **`utils`** folder and the **`data_list_alberto.py`** file are pre-existing scripts provided for data handling, as are the first few cells of the **`Train_and_inference.ipynb`** notebook.  
-
-The **segmentation** and **training data** files are **not included** in this directory, as they were not directly relevant to my work. However, if needed, these files can be found in the **parent directories**.  
-
 
 ### Train_and_inference.ipynb  
 This notebook contains the **core of the project**, including both the **training** and **inference** sections.  
@@ -46,7 +39,8 @@ It is the exact code used to produce the results presented in the final report a
 
 To run **inference**, simply:
 1. Execute all cells up to (and including) the *model cell* in `Train_and_inference.ipynb`.
-2. Load the pre-trained model available in the **“Model trained and history”** folder.  
+2. Load the pre-trained model available at this [Google Drive folder](https://drive.google.com/drive/folders/14rYu47K1gCN46UN7HOyw08LQ_Q3MHbPY?usp=sharing)
+ folder.  
 
 
 ### Model trained and history Folder  
