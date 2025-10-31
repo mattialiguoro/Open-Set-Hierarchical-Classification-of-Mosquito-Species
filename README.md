@@ -1,4 +1,4 @@
-# Mosquito Vector Classification via Deep Neural Networks
+# Open Set Hierarchical Classification of Mosquito Species
 
 This project aims to support entomologists and public health authorities in the **automatic classification of disease vector mosquitoes via deep neural networks (DNNs)**.  
 
