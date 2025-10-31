@@ -1,6 +1,6 @@
 # Mosquito Vector Classification via Deep Neural Networks
 
-Developed in collaboration with the *Istituto Superiore di Sanità (ISS)* (Italian National Institute of Health) and under the supervision of Prof. Stefano Giagu (*Sapienza University of Rome*), this project aims to support entomologists and public health authorities in the **automatic classification of disease vector mosquitoes via deep neural networks (DNNs)**.  
+This project aims to support entomologists and public health authorities in the **automatic classification of disease vector mosquitoes via deep neural networks (DNNs)**.  
 
 The system combines state-of-the-art deep learning techniques with **hierarchical and open-set classification**, providing robust and reliable genus- and species-level identification even under challenging conditions such as **imbalanced datasets, damaged specimens, and out-of-distribution inputs**.  
 
